@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build immortalwrt-orangepi_r1_plus_lts
+name: Build immortalwrt-r1p_lts
 
 on:
   repository_dispatch:
